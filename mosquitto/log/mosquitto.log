@@ -1,0 +1,174 @@
+1659297877: mosquitto version 2.0.14 starting
+1659297877: Config loaded from /mosquitto/config/mosquitto.conf.
+1659297877: Opening ipv4 listen socket on port 1883.
+1659297877: Opening ipv6 listen socket on port 1883.
+1659297877: mosquitto version 2.0.14 running
+1659298495: mosquitto version 2.0.14 terminating
+1659298574: mosquitto version 2.0.14 starting
+1659298574: Config loaded from /mosquitto/config/mosquitto.conf.
+1659298574: Opening ipv4 listen socket on port 1883.
+1659298574: Opening ipv6 listen socket on port 1883.
+1659298574: mosquitto version 2.0.14 running
+1659312683: New connection from 172.23.0.1:55814 on port 1883.
+1659312683: New connection from 172.23.0.1:55812 on port 1883.
+1659312683: Client <unknown> disconnected due to malformed packet.
+1659312683: Client <unknown> disconnected due to malformed packet.
+1659312683: New connection from 172.23.0.1:55818 on port 1883.
+1659312683: Client <unknown> disconnected due to malformed packet.
+1659312684: New connection from 172.23.0.1:55820 on port 1883.
+1659312684: New connection from 172.23.0.1:55822 on port 1883.
+1659312684: Client <unknown> disconnected due to malformed packet.
+1659312684: Client <unknown> disconnected due to malformed packet.
+1659312684: New connection from 172.23.0.1:55824 on port 1883.
+1659312684: Client <unknown> disconnected due to malformed packet.
+1659312689: New connection from 172.23.0.1:55830 on port 1883.
+1659312689: New connection from 172.23.0.1:55832 on port 1883.
+1659312689: Client <unknown> disconnected due to malformed packet.
+1659312689: Client <unknown> disconnected due to malformed packet.
+1659312689: New connection from 172.23.0.1:55834 on port 1883.
+1659312689: Client <unknown> disconnected due to malformed packet.
+1659313253: New connection from 172.23.0.1:56338 on port 1883.
+1659313253: New connection from 172.23.0.1:56340 on port 1883.
+1659313253: Client <unknown> disconnected due to malformed packet.
+1659313253: Client <unknown> disconnected due to malformed packet.
+1659313253: New connection from 172.23.0.1:56342 on port 1883.
+1659313253: Client <unknown> disconnected due to malformed packet.
+1659313254: New connection from 172.23.0.1:56344 on port 1883.
+1659313254: New connection from 172.23.0.1:56346 on port 1883.
+1659313254: Client <unknown> disconnected due to malformed packet.
+1659313349: Client <unknown> has exceeded timeout, disconnecting.
+1659315704: New connection from 172.23.0.1:56480 on port 1883.
+1659315704: New connection from 172.23.0.1:56478 on port 1883.
+1659315704: Client <unknown> disconnected due to malformed packet.
+1659315704: Client <unknown> disconnected due to malformed packet.
+1659315704: New connection from 172.23.0.1:56482 on port 1883.
+1659315704: Client <unknown> disconnected due to malformed packet.
+1659315705: New connection from 172.23.0.1:56484 on port 1883.
+1659315705: New connection from 172.23.0.1:56486 on port 1883.
+1659315705: Client <unknown> disconnected due to malformed packet.
+1659315729: New connection from 172.23.0.1:56488 on port 1883.
+1659315729: Client <unknown> disconnected due to malformed packet.
+1659315729: Client <unknown> disconnected due to malformed packet.
+1659315729: New connection from 172.23.0.1:56490 on port 1883.
+1659315729: Client <unknown> disconnected due to malformed packet.
+1659315730: New connection from 172.23.0.1:56492 on port 1883.
+1659315730: New connection from 172.23.0.1:56494 on port 1883.
+1659315730: Client <unknown> disconnected due to malformed packet.
+1659315735: New connection from 172.23.0.1:56496 on port 1883.
+1659315735: Client <unknown> disconnected due to malformed packet.
+1659315735: Client <unknown> disconnected due to malformed packet.
+1659315735: New connection from 172.23.0.1:56498 on port 1883.
+1659315735: Client <unknown> disconnected due to malformed packet.
+1659341297: mosquitto version 2.0.14 terminating
+1659344727: mosquitto version 2.0.14 starting
+1659344727: Config loaded from /mosquitto/config/mosquitto.conf.
+1659344727: Opening ipv4 listen socket on port 1883.
+1659344727: Opening ipv6 listen socket on port 1883.
+1659344727: mosquitto version 2.0.14 running
+1659347949: New connection from 172.19.0.1:63206 on port 1883.
+1659347949: New connection from 172.19.0.1:63204 on port 1883.
+1659347949: Client <unknown> disconnected due to malformed packet.
+1659347949: Client <unknown> disconnected due to malformed packet.
+1659347949: New connection from 172.19.0.1:63208 on port 1883.
+1659347949: Client <unknown> disconnected due to malformed packet.
+1659347950: New connection from 172.19.0.1:63210 on port 1883.
+1659347950: New connection from 172.19.0.1:63212 on port 1883.
+1659347950: Client <unknown> disconnected due to malformed packet.
+1659347951: New connection from 172.19.0.1:63214 on port 1883.
+1659347951: Client <unknown> disconnected due to malformed packet.
+1659347951: Client <unknown> disconnected due to malformed packet.
+1659347951: New connection from 172.19.0.1:63216 on port 1883.
+1659347951: Client <unknown> disconnected due to malformed packet.
+1659348123: mosquitto version 2.0.14 terminating
+1659348131: mosquitto version 2.0.14 starting
+1659348131: Config loaded from /mosquitto/config/mosquitto.conf.
+1659348131: Opening ipv4 listen socket on port 1883.
+1659348131: Opening ipv6 listen socket on port 1883.
+1659348131: mosquitto version 2.0.14 running
+1659348141: New connection from 172.22.0.1:63226 on port 1883.
+1659348141: New connection from 172.22.0.1:63228 on port 1883.
+1659348141: Client <unknown> disconnected due to malformed packet.
+1659348141: Client <unknown> disconnected due to malformed packet.
+1659348141: New connection from 172.22.0.1:63230 on port 1883.
+1659348141: Client <unknown> disconnected due to malformed packet.
+1659348142: New connection from 172.22.0.1:63232 on port 1883.
+1659348142: New connection from 172.22.0.1:63234 on port 1883.
+1659348142: Client <unknown> disconnected due to malformed packet.
+1659348145: Client <unknown> disconnected due to malformed packet.
+1659348145: New connection from 172.22.0.1:63236 on port 1883.
+1659348145: Client <unknown> disconnected due to malformed packet.
+1659348145: New connection from 172.22.0.1:63238 on port 1883.
+1659348145: Client <unknown> disconnected due to malformed packet.
+1659348152: New connection from 172.22.0.1:63240 on port 1883.
+1659348152: New connection from 172.22.0.1:63242 on port 1883.
+1659348152: Client <unknown> disconnected due to malformed packet.
+1659348152: Client <unknown> disconnected due to malformed packet.
+1659348152: New connection from 172.22.0.1:63244 on port 1883.
+1659348152: Client <unknown> disconnected due to malformed packet.
+1659348286: mosquitto version 2.0.14 terminating
+1659348603: mosquitto version 2.0.14 starting
+1659348603: Config loaded from /mosquitto/config/mosquitto.conf.
+1659348603: Opening ipv4 listen socket on port 1883.
+1659348603: Opening ipv6 listen socket on port 1883.
+1659348603: mosquitto version 2.0.14 running
+1659348704: New connection from 172.23.0.1:63248 on port 1883.
+1659348704: New connection from 172.23.0.1:63250 on port 1883.
+1659348704: Client <unknown> disconnected due to malformed packet.
+1659348704: Client <unknown> disconnected due to malformed packet.
+1659348704: New connection from 172.23.0.1:63252 on port 1883.
+1659348704: Client <unknown> disconnected due to malformed packet.
+1659348705: New connection from 172.23.0.1:63256 on port 1883.
+1659348705: New connection from 172.23.0.1:63254 on port 1883.
+1659348705: Client <unknown> disconnected due to malformed packet.
+1659348705: Client <unknown> disconnected due to malformed packet.
+1659348705: New connection from 172.23.0.1:63258 on port 1883.
+1659348705: Client <unknown> disconnected due to malformed packet.
+1659348705: New connection from 172.23.0.1:63260 on port 1883.
+1659348705: New connection from 172.23.0.1:63262 on port 1883.
+1659348705: Client <unknown> disconnected due to malformed packet.
+1659348705: Client <unknown> disconnected due to malformed packet.
+1659348705: New connection from 172.23.0.1:63264 on port 1883.
+1659348705: Client <unknown> disconnected due to malformed packet.
+1659348718: mosquitto version 2.0.14 terminating
+1659350040: mosquitto version 2.0.14 starting
+1659350040: Config loaded from /mosquitto/config/mosquitto.conf.
+1659350040: Opening ipv4 listen socket on port 1883.
+1659350040: Opening ipv6 listen socket on port 1883.
+1659350040: mosquitto version 2.0.14 running
+1659350054: New connection from 172.24.0.1:63304 on port 1883.
+1659350054: New connection from 172.24.0.1:63306 on port 1883.
+1659350054: Client <unknown> disconnected due to malformed packet.
+1659350054: Client <unknown> disconnected due to malformed packet.
+1659350054: New connection from 172.24.0.1:63308 on port 1883.
+1659350054: Client <unknown> disconnected due to malformed packet.
+1659350055: New connection from 172.24.0.1:63312 on port 1883.
+1659350055: New connection from 172.24.0.1:63310 on port 1883.
+1659350055: Client <unknown> disconnected due to malformed packet.
+1659350055: Client <unknown> disconnected due to malformed packet.
+1659350055: New connection from 172.24.0.1:63314 on port 1883.
+1659350055: Client <unknown> disconnected due to malformed packet.
+1659350134: New connection from 172.24.0.1:63316 on port 1883.
+1659350134: New connection from 172.24.0.1:63318 on port 1883.
+1659350134: Client <unknown> disconnected due to malformed packet.
+1659350134: Client <unknown> disconnected due to malformed packet.
+1659350134: New connection from 172.24.0.1:63320 on port 1883.
+1659350134: Client <unknown> disconnected due to malformed packet.
+1659350135: New connection from 172.24.0.1:63322 on port 1883.
+1659350135: New connection from 172.24.0.1:63324 on port 1883.
+1659350135: Client <unknown> disconnected due to malformed packet.
+1659350135: Client <unknown> disconnected due to malformed packet.
+1659350135: New connection from 172.24.0.1:63326 on port 1883.
+1659350135: Client <unknown> disconnected due to malformed packet.
+1659350135: New connection from 172.24.0.1:63330 on port 1883.
+1659350135: New connection from 172.24.0.1:63328 on port 1883.
+1659350135: Client <unknown> disconnected due to malformed packet.
+1659350135: Client <unknown> disconnected due to malformed packet.
+1659350135: New connection from 172.24.0.1:63332 on port 1883.
+1659350135: Client <unknown> disconnected due to malformed packet.
+1659350299: mosquitto version 2.0.14 terminating
+1659360642: mosquitto version 2.0.14 starting
+1659360642: Config loaded from /mosquitto/config/mosquitto.conf.
+1659360642: Opening ipv4 listen socket on port 1883.
+1659360642: Opening ipv6 listen socket on port 1883.
+1659360642: mosquitto version 2.0.14 running
+1659581399: mosquitto version 2.0.14 terminating
